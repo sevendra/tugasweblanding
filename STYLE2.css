@@ -1,0 +1,235 @@
+.iphone-pro {
+    background-color: #28a5c6;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .iphone-pro .overlap-group-wrapper {
+    background-color: #28a5c6;
+    width: 393px;
+    height: 852px;
+  }
+  
+  .iphone-pro .overlap-group {
+    position: relative;
+    width: 345px;
+    height: 805px;
+    left: 25px;
+  }
+  
+  .iphone-pro .ellipse {
+    position: absolute;
+    width: 298px;
+    height: 82px;
+    top: 155px;
+    left: 24px;
+  }
+  
+  .iphone-pro .div {
+    position: absolute;
+    width: 235px;
+    height: 56px;
+    top: 172px;
+    left: 73px;
+    background-color: #28a5c6;
+    border-radius: 117.37px/28.08px;
+  }
+  
+  .iphone-pro .pinky-removebg {
+    position: absolute;
+    width: 94px;
+    height: 408px;
+    top: 0;
+    left: 160px;
+    mix-blend-mode: color-dodge;
+    object-fit: cover;
+  }
+  
+  .iphone-pro .ASTER-a {
+    position: absolute;
+    width: 235px;
+    height: 29px;
+    top: 265px;
+    left: 15px;
+  }
+  
+  .iphone-pro .rectangle {
+    position: absolute;
+    width: 345px;
+    height: 463px;
+    top: 342px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 22px;
+  }
+  
+  .iphone-pro .rectangle-2 {
+    position: absolute;
+    width: 195px;
+    height: 46px;
+    top: 734px;
+    left: 68px;
+    background-color: #4285f4;
+    border-radius: 12px;
+    box-shadow: 4px 4px 8px #00000029;
+  }
+  
+  .iphone-pro .text-wrapper {
+    position: absolute;
+    width: 114px;
+    top: 741px;
+    left: 123px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 1.92px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .iphone-pro .text-wrapper-2 {
+    position: absolute;
+    width: 161px;
+    top: 341px;
+    left: 101px;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000e6;
+    font-size: 38px;
+    letter-spacing: 3.04px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .iphone-pro .text-wrapper-3 {
+    width: 175px;
+    top: 405px;
+    position: absolute;
+    left: 22px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro .text-wrapper-4 {
+    position: absolute;
+    width: 175px;
+    top: 440px;
+    left: 30px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #726969;
+    font-size: 12px;
+    letter-spacing: 0.6px;
+    line-height: normal;
+  }
+  
+  .iphone-pro .rectangle-3 {
+    position: absolute;
+    width: 293px;
+    height: 39px;
+    top: 526px;
+    left: 16px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 1px solid;
+    border-color: #4285f4;
+  }
+  
+  .iphone-pro .text-wrapper-5 {
+    width: 169px;
+    top: 503px;
+    position: absolute;
+    left: 22px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro .text-wrapper-6 {
+    position: absolute;
+    width: 137px;
+    top: 574px;
+    left: 26px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .iphone-pro .text-wrapper-7 {
+    position: absolute;
+    width: 137px;
+    top: 594px;
+    left: 26px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #4285f4;
+    font-size: 13px;
+    letter-spacing: 0.52px;
+    line-height: normal;
+  }
+  
+  .iphone-pro .text-wrapper-8 {
+    position: absolute;
+    width: 123px;
+    top: 576px;
+    left: 198px;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
+    color: #4285f4;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .iphone-pro .text-wrapper-9 {
+    position: absolute;
+    width: 208px;
+    top: 537px;
+    left: 30px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #726969;
+    font-size: 12px;
+    letter-spacing: 0.6px;
+    line-height: normal;
+  }
+  
+  .iphone-pro .rectangle-4 {
+    position: absolute;
+    width: 295px;
+    height: 38px;
+    top: 429px;
+    left: 16px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 1px solid;
+    border-color: #4285f4;
+  }
+  
+  .iphone-pro .text-wrapper-10 {
+    position: absolute;
+    width: 279px;
+    top: 438px;
+    left: 30px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #726969;
+    font-size: 12px;
+    letter-spacing: 0.6px;
+    line-height: normal;
+  }
+  

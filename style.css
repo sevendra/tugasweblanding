@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: aqua;
+}
+body{
+    height: 100vh;
+    background-image: url(th.jpg) url(th.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container{
+
+position: absolute;
+width: 345px;
+height: 463px;
+left: 25px;
+top: 342px;
+
+background: #FFFFFF;
+border-radius: 22px;
+
+}
+.container h1{
+
+position: absolute;
+width: 161px;
+height: 45px;
+left: 126px;
+top: 342px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 38px;
+line-height: 57px;
+letter-spacing: 0.08em;
+
+color: rgba(0, 0, 0, 0.9);
+
+
+}
+.container label{
+
+position: absolute;
+width: 175px;
+height: 21px;
+left: 47px;
+top: 406px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+
+}
+.container form input{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 295px;
+height: 38px;
+left: 41px;
+top: 429px;
+
+background: #FFFFFF;
+border: 1px solid #4285F4;
+border-radius: 12px;
+}
+.container form button{
+
+position: absolute;
+width: 114.4px;
+height: 22.77px;
+left: 148.39px;
+top: 742.15px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: 0.08em;
+
+color: #FFFFFF;
+}

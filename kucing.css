@@ -1,0 +1,17 @@
+.background{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 100vh;
+    background-image: url("09cb3d5471f7413c9b2be7713aa69fc4 1.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    filter: blur(16px);
+    -webkit-filter: blur(16px);
+}
+.content{
+    color: blueviolet;
+    margin-top: 200px;
+}
